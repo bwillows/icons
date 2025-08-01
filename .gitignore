@@ -1,0 +1,12 @@
+# Node
+node_modules/
+package-lock.json
+
+# Build/output
+dist/
+*.log
+
+# Mac/OSX/IDE/editor stuff
+.DS_Store
+.idea/
+.vscode/
