@@ -1,0 +1,14 @@
+{
+    "name": "icons",
+    "version": "7.31.2025",
+    "description": "Shared SVG icons for use across multiple projects.",
+    "keywords": ["icons", "svg"],
+    "author": "bwillows",
+    "files": [
+        "svg/"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bwillows/icons.git"
+    }
+}
