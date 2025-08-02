@@ -1,1 +1,1 @@
-This repository contains a minimal lightweight collection of SVG icons. 
+This repository contains a lightweight collection of minimal of SVG icons. 
